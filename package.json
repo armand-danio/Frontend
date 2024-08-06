@@ -2,7 +2,7 @@
   "name": "my-static-site",
   "version": "1.0.0",
   "description": "A simple static site hosted on Heroku",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
